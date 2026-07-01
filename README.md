@@ -21,6 +21,18 @@ Building robust full-stack applications with a focus on AI integration and secur
 
 ---
 
+## 🎯 Engineering Focus
+
+- Software Engineering
+- Artificial Intelligence
+- Cloud Computing
+- Cybersecurity
+- Full-Stack Development
+- Distributed Systems
+- Intelligent Applications
+
+ ---
+ 
 ## Tech Stack
 
 **Languages**
