@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Nasr-Eddine Banner" width="100%">
+</p>
 # Nasr-Eddine Ez-Zaoui
 
 **Software Engineering Student** | ENSMR (École Nationale Supérieure des Mines de Rabat)
